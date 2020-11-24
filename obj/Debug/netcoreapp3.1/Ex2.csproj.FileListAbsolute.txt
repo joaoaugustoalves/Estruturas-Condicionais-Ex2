@@ -1,0 +1,13 @@
+C:\Users\REI DELAS\Desktop\Estrutura-condicional\Ex2\bin\Debug\netcoreapp3.1\Ex2.exe
+C:\Users\REI DELAS\Desktop\Estrutura-condicional\Ex2\bin\Debug\netcoreapp3.1\Ex2.deps.json
+C:\Users\REI DELAS\Desktop\Estrutura-condicional\Ex2\bin\Debug\netcoreapp3.1\Ex2.runtimeconfig.json
+C:\Users\REI DELAS\Desktop\Estrutura-condicional\Ex2\bin\Debug\netcoreapp3.1\Ex2.runtimeconfig.dev.json
+C:\Users\REI DELAS\Desktop\Estrutura-condicional\Ex2\bin\Debug\netcoreapp3.1\Ex2.dll
+C:\Users\REI DELAS\Desktop\Estrutura-condicional\Ex2\bin\Debug\netcoreapp3.1\Ex2.pdb
+C:\Users\REI DELAS\Desktop\Estrutura-condicional\Ex2\obj\Debug\netcoreapp3.1\Ex2.csprojAssemblyReference.cache
+C:\Users\REI DELAS\Desktop\Estrutura-condicional\Ex2\obj\Debug\netcoreapp3.1\Ex2.AssemblyInfoInputs.cache
+C:\Users\REI DELAS\Desktop\Estrutura-condicional\Ex2\obj\Debug\netcoreapp3.1\Ex2.AssemblyInfo.cs
+C:\Users\REI DELAS\Desktop\Estrutura-condicional\Ex2\obj\Debug\netcoreapp3.1\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\REI DELAS\Desktop\Estrutura-condicional\Ex2\obj\Debug\netcoreapp3.1\Ex2.dll
+C:\Users\REI DELAS\Desktop\Estrutura-condicional\Ex2\obj\Debug\netcoreapp3.1\Ex2.pdb
+C:\Users\REI DELAS\Desktop\Estrutura-condicional\Ex2\obj\Debug\netcoreapp3.1\Ex2.genruntimeconfig.cache
